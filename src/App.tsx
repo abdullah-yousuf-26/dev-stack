@@ -1,6 +1,6 @@
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
-import Technologies  from "./components/Technologies";
+import Main  from "./components/Main";
 import { ToastContainer } from "react-toastify";
 function App() {
 
@@ -9,7 +9,7 @@ function App() {
     <>
     <Nav />
     <Hero/>
-    <Technologies />
+    <Main />
     <ToastContainer position="top-right" autoClose={3000} />
     
 
