@@ -1,4 +1,4 @@
-#<img src="./src/assets/logo-text.png" alt="DevStack Logo" height="36" style="vertical-align: middle;" /> DevStack
+# <img src="./src/assets/logo-text.png" alt="DevStack Logo" height="36" style="vertical-align: middle;" /> DevStack
 
 DevStack is a modern and interactive web application that helps developers explore, compare, and build their ideal development stack. It provides a selected collection of popular technologies, libraries, frameworks, and tools, making it easier to discover the right technologies for different projects.
 
