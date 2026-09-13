@@ -34,7 +34,10 @@ function Hero() {
           </div>
         </div>
 
-        {/* Right Side: Image */}
+
+
+        
+{/* image */}
         <div className="flex-1 flex justify-center">
           <img 
             src={heroImg} 

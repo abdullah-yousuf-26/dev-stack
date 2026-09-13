@@ -20,7 +20,7 @@ function Nav() {
 
 
 
-{/* menu list */}
+{/* service menu list */}
 
           <div className="flex items-center gap-8">
             <a href="#home" className="text-pink-600 font-medium">Home</a>
