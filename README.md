@@ -1,4 +1,4 @@
-# DevStack
+#<img src="./src/assets/logo-text.png" alt="DevStack Logo" height="36" style="vertical-align: middle;" /> DevStack
 
 DevStack is a modern and interactive web application that helps developers explore, compare, and build their ideal development stack. It provides a selected collection of popular technologies, libraries, frameworks, and tools, making it easier to discover the right technologies for different projects.
 
@@ -6,11 +6,11 @@ DevStack is a modern and interactive web application that helps developers explo
 
 ## Built Stack
 
-* **Frontend:** React with TypeScript
-* **Build Tool:** Vite
-* **Styling:** Tailwind CSS & DaisyUI
+* **Frontend:** <img src="./src/assets/React.png" height="18" style="vertical-align: middle;" /> <img src="./src/assets/TypeScript.png" height="18" style="vertical-align: middle;" /> React with TypeScript
+* **Build Tool:** <img src="./src/assets/Vite.png" height="18" style="vertical-align: middle;" /> Vite
+* **Styling:** <img src="./src/assets/Tailwind CSS.png" height="18" style="vertical-align: middle;" /> Tailwind CSS & DaisyUI
 * **Notifications:** React-Toastify
-* **Icons:** Custom SVG & PNG Assets
+* **Icons:** Tech Icons & PNG Assets
 
 ---
 
@@ -45,4 +45,4 @@ Without unique keys, React cannot pefectly track individual elements, performanc
 
 ### 6. What is conditional rendering? Show one place you used it.
 It means rendering different UI elements based on certain conditions, or similar to an `if/else` statement 
-In this project, conditional rendering was used in the **Your Stack** sidebar :
+In this project, conditional rendering was used in the **Your Stack** sidebar 
